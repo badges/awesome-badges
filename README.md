@@ -10,20 +10,20 @@ A curated collection of awesome things related to status badges.
   launched in 2014.
 - [Badgen](https://badgen.net/) &ndash; Fast badge generating service launched
   in 2018.
-- [NodeICO](https://nodei.co/) &ndash; A few style of large-format badges for
-  Node.js projects.
+- [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
+  projects. (These were once very popular!)
 
 ### Raster badges
 
-SVG badges are encouraged because they render better on Retina displays and
+_SVG badges are encouraged because they render better on Retina displays and
 scale up beautifully. However in a few environments, such as Slack and HTML
 email, SVG images won't render, so PNG badges are preferred. Shields offers
-raster badges through its raster server, `raster.shields.io`.
+raster badges through its raster server, `raster.shields.io`._
 
 - [svg-to-image-proxy](https://github.com/badges/svg-to-image-proxy) &ndash;
   Rasterizing proxy based on Node and Puppeteer which can be hosted on Vercel.
-  Since 2019 this code has been used to run `raster.shields.io`, however it's
-  about to be deprecated in favor of [squint](https://github.com/badges/squint/).
+  (Since 2019 this code has been used to run `raster.shields.io`, however it's
+  about to be deprecated in favor of [squint](https://github.com/badges/squint/).)
 - [squint](https://github.com/badges/squint/) &ndash; Rasterizing proxy based on
   Rust and [libcairo](https://www.cairographics.org/).
 
@@ -41,8 +41,8 @@ raster badges through its raster server, `raster.shields.io`.
 
 ### Dynamic data providers
 
-These are third-party data providers who publish formats which work with one
-of the dynamic badge services.
+_These are third-party data providers who publish formats which work with one
+of the dynamic badge services._
 
 - [Transifex open API endpoints](https://transifex-open-api.herokuapp.com/)
   &ndash; Data gateway for projects using
