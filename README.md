@@ -11,7 +11,7 @@ A curated collection of awesome things related to status badges.
 - [Badgen](https://badgen.net/) &ndash; Fast badge generating service launched
   in 2018.
 - [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
-  projects. (These were once very popular!)
+  projects &ndash; which were once very popular!
 
 ### Raster badges
 
