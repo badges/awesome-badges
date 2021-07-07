@@ -15,10 +15,10 @@ A curated collection of awesome things related to status badges.
 
 ### Raster badges
 
-_SVG badges are encouraged because they render better on Retina displays and
-scale up beautifully. However in a few environments, such as Slack and HTML
-email, SVG images won't render, so PNG badges are preferred. Shields offers
-raster badges through its raster server, `raster.shields.io`._
+> SVG badges are encouraged because they render better on Retina displays and
+> scale up beautifully. However in a few environments, such as Slack and HTML
+> email, SVG images won't render, so PNG badges are preferred. Shields offers
+> raster badges through its raster server, `raster.shields.io`.
 
 - [svg-to-image-proxy](https://github.com/badges/svg-to-image-proxy) &ndash;
   Rasterizing proxy based on Node and Puppeteer which can be hosted on Vercel.
@@ -41,8 +41,12 @@ raster badges through its raster server, `raster.shields.io`._
 
 ### Dynamic data providers
 
-_These are third-party data providers who publish formats which work with one
-of the dynamic badge services._
+> Dynamic data providers are third parties who publish data APIs which can be
+> used to back one of the dynamic badge services:
+>
+> - [Shields' Endpoint badge](https://shields.io/endpoint)
+> - [Badgen's https badge](https://badgen.net/https)
+> - [Badgen's RunKit endpoint badge](https://badgen.net/runkit)
 
 - [Transifex open API endpoints](https://transifex-open-api.herokuapp.com/)
   &ndash; Data gateway for projects using
@@ -71,8 +75,8 @@ of the dynamic badge services._
 
 - [Badges on npm packages](https://cmustrudel.github.io/projects/badges/)
   &ndash; Data-driven assessment based on signaling theory applied to how
-  badges are used in npm. Paper was
-  [published in ICSE 2018](https://cmustrudel.github.io/papers/icse18badges.pdf).
+  badges are used in npm.
+  [Published in ICSE 2018](https://cmustrudel.github.io/papers/icse18badges.pdf).
 - [On the Usage of Badges in Open Source Packages on GitHub](http://ceur-ws.org/Vol-2605/9.pdf)
   &ndash; Data-driven study of how status badges are used in Cargo and Packagist
   projects.
@@ -80,8 +84,8 @@ of the dynamic badge services._
 ### Historical articles
 
 - [An Open Source Rage Diamond](https://olivierlacan.com/posts/an-open-source-rage-diamond/)
-  &ndash; An article about the motivation for the Shields project by one of its
-  founders. (Jun. 5, 2014)
+  _(Jun. 5, 2014)_ &ndash; An article about the motivation for the Shields
+  project by one of its creators.
 - [Shields badge specification](https://github.com/badges/shields/blob/master/spec/SPECIFICATION.md)
   &ndash; Visual design specification for Shields.
 
@@ -99,10 +103,9 @@ of the dynamic badge services._
 ### Hosting your own badge service
 
 - [Shields](https://github.com/badges/shields/blob/master/doc/self-hosting.md) &ndash;
-  You can host your own copy of Shields to Heroku, Vercel, using Docker, or
-  anywhere you can run a Node server.
+  Host your own copy of Shields to Heroku, Vercel, using Docker, or on a Node server.
 - [Badgen](https://github.com/badgen/badgen.net/#environments) &ndash;
-  You can host your own copy of Badgen on Vercel.
+  Host your own copy of Badgen on Vercel.
 
 ### Achievement badges
 
