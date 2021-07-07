@@ -4,6 +4,9 @@
 
 A curated collection of awesome things related to status badges.
 
+_While this list is maintained by Paul Melnikow from the Shields core team, it
+includes Shields-related and non-Shields-related resources._
+
 ### Dynamic badge services
 
 - [Shields.io](https://shields.io/) &ndash; Original home of the badges,
@@ -94,7 +97,7 @@ A curated collection of awesome things related to status badges.
 - [Shields.io by Nicco Kunzmann](https://www.youtube.com/watch?v=abBdk8bSPKU) &ndash;
   A talk given by Nicco Kunzmann for I Love Free Software Day in Berlin,
   Feb. 14, 2019.
-- [Cool badges for your project by Marcin Mielnicki](https://raw.githubusercontent.com/hacktoberfest-poznan/presentations/master/2018/Cool-badges-for-your-project.pdf))
+- [Cool badges for your project by Marcin Mielnicki](https://raw.githubusercontent.com/hacktoberfest-poznan/presentations/master/2018/Cool-badges-for-your-project.pdf)
   ([photos](https://www.facebook.com/media/set/?vanity=hacktoberfest&set=a.258422348195183))
   &ndash; A talk given by Shields core team member Marcin Mielnicki for
   Hacktoberfest Poznań 2018.
