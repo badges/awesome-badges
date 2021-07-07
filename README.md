@@ -101,9 +101,9 @@ A curated collection of awesome things related to status badges.
 
 ### Hosting your own badge service
 
-- [Shields](https://github.com/badges/shields/blob/master/doc/self-hosting.md) &ndash;
-  Host your own copy of Shields to Heroku, Vercel, using Docker, or on a Node server.
-- [Badgen](https://github.com/badgen/badgen.net/#environments) &ndash;
+- [Shields self-hosting](https://github.com/badges/shields/blob/master/doc/self-hosting.md)
+  &ndash; Host your own copy of Shields to Heroku, Vercel, using Docker, or on a Node server.
+- [Badgen self-hosting](https://github.com/badgen/badgen.net/#environments) &ndash;
   Host your own copy of Badgen on Vercel.
 
 ### Achievement badges
