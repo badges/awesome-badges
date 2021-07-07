@@ -4,10 +4,6 @@
 
 A curated collection of awesome things related to status badges.
 
-## Contents
-
-<!-- toc -->
-
 ### Dynamic badge services
 
 - [Shields.io](https://shields.io/) &ndash; Original home of the badges,
