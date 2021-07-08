@@ -18,7 +18,7 @@ you agree to abide by its terms.
    welcomed.
 5. Projects which are of historical interest and not actively maintained may
    only be listed only in the _graveyard_ section.
-6. As this list matures, project reserves the right to revise these guidelines,
+6. As this list matures, we reserve the right to revise these guidelines,
    and to add or remove resources at its discretion.
 
 [code of conduct]: ./CODE_OF_CONDUCT.md
