@@ -9,7 +9,7 @@ you agree to abide by its terms.
 
 1. To be included in this list, a project must and relate to status badges.
 2. A link may be helpful to developers and non-developers.
-3. It must be substantive. Blog posts may not be included at the maintainers'
+3. It must be substantive. Blog posts may be included at the maintainers'
    discretion, however we're not going to list every blog post about how to
    add a badge to your project.
 4. Linked project need not be related to Shields.io or adopt the
