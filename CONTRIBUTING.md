@@ -12,7 +12,7 @@ you agree to abide by its terms.
 3. It must be substantive. Blog posts may be included at the maintainers'
    discretion, however we're not going to list every blog post about how to
    add a badge to your project.
-4. Linked project need not be related to Shields.io or adopt the
+4. Linked projects need not be related to Shields.io or adopt the
    [Shields.io badge specification][] or any other particular standard.
    Popular, well-documented alternatives to Shields are specifically
    welcomed.
