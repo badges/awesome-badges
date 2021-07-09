@@ -17,7 +17,7 @@ you agree to abide by its terms.
    Popular, well-documented alternatives to Shields are specifically
    welcomed.
 5. Projects which are of historical interest and not actively maintained may
-   only be listed only in the _graveyard_ section.
+   only be listed in the _graveyard_ section.
 6. As this list matures, we reserve the right to revise these guidelines,
    and to add or remove resources at its discretion.
 
