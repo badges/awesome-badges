@@ -73,6 +73,7 @@ includes Shields-related and non-Shields-related resources._
 
 - [Simple Icons](https://simpleicons.org/) &ndash; Home of the bulk of the
   icons used by both Shields and Badgen.
+- [Simple Badges](https://github.com/developStorm/simple-badges) &ndash; Catalog of Shields.io Badges with Simple Icons
 
 ### Academic articles
 
