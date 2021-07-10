@@ -68,6 +68,7 @@ includes Shields-related and non-Shields-related resources._
 - [pybadges](https://github.com/google/pybadges) &ndash; Python.
 - [browser-support-badge](https://github.com/hustcc/browser-support-badge) &ndash;
   JavaScript; generates browser version compatibility badges.
+- [badge4j](https://github.com/silentsoft/badge4j) &ndash; Java.
 
 ### Icons
 
