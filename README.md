@@ -55,7 +55,8 @@ includes Shields-related and non-Shields-related resources._
 - [Transifex open API endpoints](https://transifex-open-api.herokuapp.com/)
   &ndash; Data gateway for projects using
   [Transifex](https://www.transifex.com/).
-
+- [Cell Shield](https://cellshield.info) &ndash; a service that allows backing a shields.io badge with a cell from a public Google Spreadsheet.  
+  
 ### Badge-rendering software
 
 - [badge-maker](https://github.com/badges/shields/tree/master/badge-maker)
