@@ -38,6 +38,7 @@ includes Shields-related and non-Shields-related resources._
 
 ### Static badge collections
 
+- [Badges 4 README.md Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) &ndash; Catalog of Shields.io Badges for readme profiles
 - [Project Types](https://project-types.github.io/) &ndash; Static badges for
   four types of open-source project, as classified in Nadia Eghbal's
   _Working in Public_.
