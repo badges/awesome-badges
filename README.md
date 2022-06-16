@@ -60,6 +60,7 @@ includes Shields-related and non-Shields-related resources._
 - [TYPO3 Badges](https://typo3-badges.dev) &ndash; API that provides
   JSON endpoints to render badges of [TYPO3 CMS extensions](https://extensions.typo3.org/)
   via Shields or Badgen.
+- [Dynamic Badge Formatter](https://github.com/DenverCoder1/dynamic-badge-formatter) &ndash; A service to supply formatters for metrics, versions, dates, and more to dynamic shields.io badges to make them look consistent.
   
 ### Badge-rendering software
 
