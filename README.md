@@ -82,6 +82,7 @@ includes Shields-related and non-Shields-related resources._
 - [Simple Icons](https://simpleicons.org/) &ndash; Home of the bulk of the
   icons used by both Shields and Badgen.
 - [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges) &ndash; Allows users to more easily use Octicons and their own icons and logos on shields.io badges.
+- [Simple Badges](https://badges.pages.dev/) &ndash; Website for finding and previewing Simple Icons on shields.io badges.
 
 ### Academic articles
 
