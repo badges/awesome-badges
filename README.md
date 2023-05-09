@@ -16,6 +16,11 @@ includes Shields-related and non-Shields-related resources._
 - [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
   projects &ndash; which were once very popular!
 
+### Badge tools
+
+- [Badgie](https://badgie.me/) &ndash; Adds badges to your project based on
+  what it is.
+
 ### Raster badges
 
 > SVG badges are encouraged because they render better on Retina displays and
