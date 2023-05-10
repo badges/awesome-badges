@@ -18,8 +18,8 @@ includes Shields-related and non-Shields-related resources._
 
 ### Badge tools
 
-- [Badgie](https://badgie.me/) &ndash; Adds badges to your project based on
-  what it is.
+- [Badgie](https://badgie.me/) &ndash; Scans the contents of your repository and
+  adds badges based on what it finds.
 
 ### Raster badges
 
