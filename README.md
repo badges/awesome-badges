@@ -15,6 +15,7 @@ includes Shields-related and non-Shields-related resources._
   in 2018.
 - [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
   projects &ndash; which were once very popular!
+- [PlayBadges](https://playbadges.pavi2410.me) &ndash; Show off your Play Store™ app's downloads and ratings in your repo
 
 ### Badge tools
 
