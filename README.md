@@ -21,6 +21,8 @@ includes Shields-related and non-Shields-related resources._
 
 - [Badgie](https://badgie.me/) &ndash; Scans the contents of your repository and
   adds badges based on what it finds.
+- [Badges](https://github.com/bevry/badges) &ndash; Node.js/Deno/Browser npm package for rendering the HTML of various badges
+- [Projectz](https://github.com/bevry/projectz) &ndash; Render Badges into your README based on your package.json configuration
 
 ### Raster badges
 
