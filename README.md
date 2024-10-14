@@ -23,6 +23,7 @@ includes Shields-related and non-Shields-related resources._
   adds badges based on what it finds.
 - [Badges](https://github.com/bevry/badges) &ndash; Node.js/Deno/Browser npm package for rendering the HTML of various badges
 - [Projectz](https://github.com/bevry/projectz) &ndash; Render Badges into your README based on your package.json configuration
+- [shields.io Raycast extension](https://www.raycast.com/litomore/badges) &ndash; A more convenient UI for creating shields.io badges
 
 ### Raster badges
 
@@ -64,12 +65,12 @@ includes Shields-related and non-Shields-related resources._
 - [Transifex open API endpoints](https://transifex-open-api.herokuapp.com/)
   &ndash; Data gateway for projects using
   [Transifex](https://www.transifex.com/).
-- [Cell Shield](https://cellshield.info) &ndash; a service that allows backing a shields.io badge with a cell from a public Google Spreadsheet. 
+- [Cell Shield](https://cellshield.info) &ndash; a service that allows backing a shields.io badge with a cell from a public Google Spreadsheet.
 - [TYPO3 Badges](https://typo3-badges.dev) &ndash; API that provides
   JSON endpoints to render badges of [TYPO3 CMS extensions](https://extensions.typo3.org/)
   via Shields or Badgen.
 - [Dynamic Badge Formatter](https://github.com/DenverCoder1/dynamic-badge-formatter) &ndash; Allows users to apply formatters for metrics, versions, dates, and more to dynamic shields.io badges to make them look consistent.
-  
+
 ### Badge-rendering software
 
 - [badge-maker](https://github.com/badges/shields/tree/master/badge-maker)
