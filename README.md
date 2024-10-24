@@ -24,6 +24,7 @@ includes Shields-related and non-Shields-related resources._
 - [Badges](https://github.com/bevry/badges) &ndash; Node.js/Deno/Browser npm package for rendering the HTML of various badges
 - [Projectz](https://github.com/bevry/projectz) &ndash; Render Badges into your README based on your package.json configuration
 - [shields.io Raycast extension](https://www.raycast.com/litomore/badges) &ndash; A more convenient UI for creating shields.io badges
+- [devActivity](https://devactivity.com) &ndash; Embeddable badges: Cycle Time, Repo Stats (contributors, issues, commits, PRs etc)
 
 ### Raster badges
 
