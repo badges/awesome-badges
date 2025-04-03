@@ -134,3 +134,6 @@ includes Shields-related and non-Shields-related resources._
   verifiable digital badges.
 - [Badgr](https://www.badgr.org/) &ndash; A service for creating verifiable
   achievement badges, based on the Open Badges specification.
+  
+### Social badges
+- [Letterboxd Badges](https://github.com/loan-mgt/letterboxd-badge) &ndash; Custom badge for your latest film review
