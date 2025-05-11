@@ -62,9 +62,6 @@ includes Shields-related and non-Shields-related resources._
 > - [Badgen's https badge](https://badgen.net/https)
 > - [Badgen's RunKit endpoint badge](https://badgen.net/runkit)
 
-- [Transifex open API endpoints](https://transifex-open-api.herokuapp.com/)
-  &ndash; Data gateway for projects using
-  [Transifex](https://www.transifex.com/).
 - [Cell Shield](https://cellshield.info) &ndash; a service that allows backing a shields.io badge with a cell from a public Google Spreadsheet.
 - [TYPO3 Badges](https://typo3-badges.dev) &ndash; API that provides
   JSON endpoints to render badges of [TYPO3 CMS extensions](https://extensions.typo3.org/)
