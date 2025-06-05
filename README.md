@@ -16,6 +16,7 @@ includes Shields-related and non-Shields-related resources._
 - [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
   projects &ndash; which were once very popular!
 - [PlayBadges](https://playbadges.pavi2410.me) &ndash; Show off your Play Store™ app's downloads and ratings in your repo
+- [badge.fury.io](https://badge.fury.io) - Service for version badges of packages like PyPI, npm, RubyGems, etc.
 
 ### Badge tools
 
