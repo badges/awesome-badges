@@ -1,0 +1,2 @@
+# remove badgen as it seems to block lychee user agent/github actions requests
+https://badgen.net/
