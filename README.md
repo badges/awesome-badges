@@ -54,6 +54,7 @@ includes Shields-related and non-Shields-related resources._
   four types of open-source project, as classified in Nadia Eghbal's
   _Working in Public_.
 - [Simple Badges](https://github.com/developStorm/simple-badges) &ndash; Catalog of Shields.io Badges with Simple Icons
+- [Absurd badges](https://github.com/sebmestrallet/absurd-badges) &ndash; Collection of absurd, humorous, static badges
 
 ### Dynamic data providers
 
