@@ -20,7 +20,7 @@ includes Shields-related and non-Shields-related resources._
 - [dependents.info](https://dependents.info) &ndash; Showcase GitHub repository's network dependents with a badge and image.
 
 ### Badge tools
-- [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)  &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests..
+- [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)  &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests.
 - [Badgie](https://badgie.me/) &ndash; Scans the contents of your repository and
   adds badges based on what it finds.
 - [Badges](https://github.com/bevry/badges) &ndash; Node.js/Deno/Browser npm package for rendering the HTML of various badges
