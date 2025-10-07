@@ -4,7 +4,7 @@
 
 A curated collection of awesome things related to status badges.
 
-_While this list is maintained by Paul Melnikow from the Shields core team, it
+_While this list is maintained by members of the Shields core team, it
 includes Shields-related and non-Shields-related resources._
 
 ### Dynamic badge services
