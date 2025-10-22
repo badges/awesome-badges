@@ -131,7 +131,5 @@ includes Shields-related and non-Shields-related resources._
 
 ### Achievement badges
 
-- [Open Badges](https://openbadges.org/) &ndash; A specification for
-  verifiable digital badges.
 - [Badgr](https://www.badgr.org/) &ndash; A service for creating verifiable
   achievement badges, based on the Open Badges specification.
