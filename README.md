@@ -1,6 +1,6 @@
 # Awesome Badges
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 A curated collection of awesome things related to status badges.
 
@@ -62,7 +62,7 @@ includes Shields-related and non-Shields-related resources._
 > Dynamic data providers are third parties who publish data APIs which can be
 > used to back one of the dynamic badge services:
 >
-> - [Shields' Endpoint badge](https://shields.io/endpoint)
+> - [Shields' Endpoint badge](https://shields.io/badges/endpoint-badge)
 > - [Badgen's https badge](https://badgen.net/https)
 > - [Badgen's RunKit endpoint badge](https://badgen.net/runkit)
 
@@ -100,7 +100,7 @@ includes Shields-related and non-Shields-related resources._
   &ndash; Data-driven assessment based on signaling theory applied to how
   badges are used in npm.
   [Published in ICSE 2018](https://cmustrudel.github.io/papers/icse18badges.pdf).
-- [On the Usage of Badges in Open Source Packages on GitHub](http://ceur-ws.org/Vol-2605/9.pdf)
+- [On the Usage of Badges in Open Source Packages on GitHub](https://ceur-ws.org/Vol-2605/9.pdf)
   &ndash; Data-driven study of how status badges are used in Cargo and Packagist
   projects.
 
@@ -131,5 +131,5 @@ includes Shields-related and non-Shields-related resources._
 
 ### Achievement badges
 
-- [Badgr](https://www.badgr.org/) &ndash; A service for creating verifiable
+- [Parchment Award Digital Badges](https://community.canvaslms.com/t5/Parchment-Award-Digital-Badges/ct-p/canvas-credentials-badges?tab=recent) &ndash; A service for creating verifiable
   achievement badges, based on the Open Badges specification.
