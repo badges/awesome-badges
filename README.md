@@ -18,6 +18,7 @@ includes Shields-related and non-Shields-related resources._
 - [PlayBadges](https://playbadges.pavi2410.me) &ndash; Show off your Play Store™ app's downloads and ratings in your repo
 - [badge.fury.io](https://badge.fury.io) &ndash; Service for version badges of packages like PyPI, npm, RubyGems, etc.
 - [dependents.info](https://dependents.info) &ndash; Showcase GitHub repository's network dependents with a badge and image.
+- [BadgeSize.com](https://badgesize.com) &ndash; Display the size of any file accessible on GitHub, npm, a CDN service, or hosted elsewhere.
 
 ### Badge tools
 - [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)  &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests.
