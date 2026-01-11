@@ -132,5 +132,5 @@ includes Shields-related and non-Shields-related resources._
 
 ### Achievement badges
 
-- [Parchment Award Digital Badges](https://community.canvaslms.com/t5/Parchment-Award-Digital-Badges/ct-p/canvas-credentials-badges?tab=recent) &ndash; A service for creating verifiable
+- [Parchment Award Digital Badges](https://community.instructure.com/en/categories/parchment-digital-badges) &ndash; A service for creating verifiable
   achievement badges, based on the Open Badges specification.
