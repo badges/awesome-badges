@@ -130,6 +130,8 @@ includes Shields-related and non-Shields-related resources._
   &ndash; Host your own copy of Shields to Heroku, Vercel, using Docker, or on a Node server.
 - [Badgen self-hosting](https://github.com/badgen/badgen.net/#environments) &ndash;
   Host your own copy of Badgen on Vercel.
+- [ChostPulse](https://github.com/newlandpe/chost-pulse-worker) &ndash;
+  Self-hosted Cloudflare Worker to generate real-time status badges for game servers.
 
 ### Achievement badges
 
