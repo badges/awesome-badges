@@ -87,6 +87,7 @@ includes Shields-related and non-Shields-related resources._
 - [browser-support-badge](https://github.com/hustcc/browser-support-badge) &ndash;
   JavaScript; generates browser version compatibility badges.
 - [badge4j](https://github.com/silentsoft/badge4j) &ndash; Java.
+- [luabadges](https://github.com/smit4k/luabadges) &ndash; Lua.
 
 ### Icons
 
