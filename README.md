@@ -7,6 +7,7 @@ A curated collection of awesome things related to status badges.
 _While this list is maintained by members of the Shields core team, it
 includes Shields-related and non-Shields-related resources._
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for GitHub badge workflow orchestration, automated project branding management, and multi-agent coordination. MIT licensed.
 ### Dynamic badge services
 
 - [Shields.io](https://shields.io/) &ndash; Original home of the badges,
