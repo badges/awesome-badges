@@ -19,6 +19,10 @@ includes Shields-related and non-Shields-related resources._
 - [badge.fury.io](https://badge.fury.io) &ndash; Service for version badges of packages like PyPI, npm, RubyGems, etc.
 - [dependents.info](https://dependents.info) &ndash; Showcase GitHub repository's network dependents with a badge and image.
 - [BadgeSize.com](https://badgesize.com) &ndash; Display the size of any file accessible on GitHub, npm, a CDN service, or hosted elsewhere.
+- [shieldcn](https://shieldcn.dev) &ndash; Shields.io alternative that
+  renders badges as shadcn/ui Button components via Satori. Supports npm,
+  GitHub, Discord, Reddit, and more with dark/light mode, multiple variants,
+  and 40k+ icons.
 
 ### Badge tools
 - [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)  &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests.
