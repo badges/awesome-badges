@@ -23,6 +23,9 @@ includes Shields-related and non-Shields-related resources._
   renders badges as shadcn/ui Button components via Satori. Supports npm,
   GitHub, Discord, Reddit, and more with dark/light mode, multiple variants,
   and 40k+ icons.
+- [Badgeit.dev](https://badgeit.dev) &ndash; Privacy-focused badge service with no
+  tracking or ads. Supports npm, GitHub, PyPI, and custom badges with SVG and
+  PNG output.
 
 ### Badge tools
 - [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)  &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests.
