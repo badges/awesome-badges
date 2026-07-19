@@ -25,13 +25,15 @@ includes Shields-related and non-Shields-related resources._
   and 40k+ icons.
 
 ### Badge tools
-- [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr)  &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests.
+
+- [Badgetizr](https://github.com/aiKrice/homebrew-badgetizr) &ndash; Automatically adds customizable badges to your GitHub and GitLab pull/merge requests.
 - [Badgie](https://badgie.me/) &ndash; Scans the contents of your repository and
   adds badges based on what it finds.
 - [Badges](https://github.com/bevry/badges) &ndash; Node.js/Deno/Browser npm package for rendering the HTML of various badges
 - [Projectz](https://github.com/bevry/projectz) &ndash; Render Badges into your README based on your package.json configuration
 - [shields.io Raycast extension](https://www.raycast.com/litomore/badges) &ndash; A more convenient UI for creating shields.io badges
 - [shields-badge](https://github.com/galtzo-floss/shields-badge) &ndash; RubyGem for generating shields.io badge URLs and Markdown
+- [Badge3D](https://badge3d.litomore.me) &ndash; Turn a Shields.io badge into a model you can print
 
 ### Raster badges
 
