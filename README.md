@@ -34,6 +34,7 @@ includes Shields-related and non-Shields-related resources._
 - [shields.io Raycast extension](https://www.raycast.com/litomore/badges) &ndash; A more convenient UI for creating shields.io badges
 - [shields-badge](https://github.com/galtzo-floss/shields-badge) &ndash; RubyGem for generating shields.io badge URLs and Markdown
 - [Badge3D](https://badge3d.litomore.me) &ndash; Turn a Shields.io badge into a model you can print
+- [Badge Beadgrid](https://badge-beadgrid.litomore.me) &ndash; Turn a Shields.io badge into a bead grid pattern you can craft
 
 ### Raster badges
 
