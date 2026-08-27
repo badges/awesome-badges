@@ -16,6 +16,9 @@ includes Shields-related and non-Shields-related resources._
 - [NodeICO](https://nodei.co/) &ndash; Large-format status badges for Node.js
   projects &ndash; which were once very popular!
 - [PlayBadges](https://playbadges.pavi2410.me) &ndash; Show off your Play Store™ app's downloads and ratings in your repo
+- [AwesomeTime](https://awesometime.vercel.app) &ndash; Zero-dependency SVG
+  generator for year-progress bars and date countdowns, with a live-ticking
+  seconds digit, 3 styles, custom colors/fonts, and English/Korean locales.
 - [badge.fury.io](https://badge.fury.io) &ndash; Service for version badges of packages like PyPI, npm, RubyGems, etc.
 - [dependents.info](https://dependents.info) &ndash; Showcase GitHub repository's network dependents with a badge and image.
 - [BadgeSize.com](https://badgesize.com) &ndash; Display the size of any file accessible on GitHub, npm, a CDN service, or hosted elsewhere.
