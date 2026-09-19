@@ -68,6 +68,7 @@ includes Shields-related and non-Shields-related resources._
 - [Simple Badges](https://github.com/developStorm/simple-badges) &ndash; Catalog of Shields.io Badges with Simple Icons
 - [Absurd badges](https://github.com/sebmestrallet/absurd-badges) &ndash; Collection of absurd, humorous, static badges
 - [Made by Human](https://madebyhuman.iamjarl.com) &ndash; SVG badges for transparency about human-AI collaboration: Made by Human, Co-created with AI, Crafted by Human, and Human in the Loop
+- [Markdown Badges](https://markdown-badges.vercel.app) &ndash; Awesome site to copy markdown badges for your readmes and other markdown files
 
 ### Dynamic data providers
 
