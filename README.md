@@ -29,8 +29,7 @@ includes Shields-related and non-Shields-related resources._
 - [PolicyChecks](https://github.com/reponomics/PolicyChecks) &ndash; Badges for
   GitHub repository settings that public APIs can't see, such as whether
   signed commits, SHA pinning, or pull requests are required on the default
-  branch. Backed by a GitHub App which reads repository administration
-  settings.
+  branch.
 
 ### Badge tools
 
