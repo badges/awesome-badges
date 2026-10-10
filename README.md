@@ -30,6 +30,7 @@ includes Shields-related and non-Shields-related resources._
   GitHub repository settings that public APIs can't see, such as whether
   signed commits, SHA pinning, or pull requests are required on the default
   branch.
+- [github-contrib-globe-badge](https://github.com/turbolego/github-contrib-globe-badge) – 3D WebGL globe badge visualizing GitHub contributions by location using cobe, free on GitHub Pages.
 
 ### Badge tools
 
