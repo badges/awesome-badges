@@ -31,6 +31,8 @@ includes Shields-related and non-Shields-related resources._
   signed commits, SHA pinning, or pull requests are required on the default
   branch.
 - [github-contrib-globe-badge](https://github.com/turbolego/github-contrib-globe-badge) – 3D WebGL globe badge visualizing GitHub contributions by location using cobe, free on GitHub Pages.
+- [b59.link view counter](https://b59.link/tools/view-counter) &ndash; Page-view count badge for a website, blog
+  post or docs page, fed by a small tag on the site. No account or cookies.
 
 ### Badge tools
 
