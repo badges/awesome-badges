@@ -36,6 +36,8 @@ includes Shields-related and non-Shields-related resources._
 - [Devtoolwatch badges](https://index.devtoolwatch.com/badges/) &ndash; Weekly rank badges for the AI
   developer tools Devtoolwatch tracks, showing each tool's place in its category by new GitHub stars
   and npm/PyPI download growth.
+- [shell-pet](https://shell-pet.vercel.app) &ndash; Animated hermit crab badge
+  that grows with a repo's stars and changes mood with its GitHub activity.
 
 ### Badge tools
 
