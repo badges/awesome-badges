@@ -40,7 +40,7 @@ includes Shields-related and non-Shields-related resources._
   that grows with a repo's stars and changes mood with its GitHub activity.
 - [LogPulse changelog badge](https://release-ripple-roadmap.lovable.app/tools/changelog-badge) &ndash;
   Badge that checks a public GitHub repo's CHANGELOG.md against Keep a
-  Changelog and links to a report with a fix for each issue. No sign-up.
+  Changelog and links to a report with a fix for each issue.
 
 ### Badge tools
 
