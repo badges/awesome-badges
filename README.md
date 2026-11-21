@@ -41,6 +41,9 @@ includes Shields-related and non-Shields-related resources._
 - [LogPulse changelog badge](https://release-ripple-roadmap.lovable.app/tools/changelog-badge) &ndash;
   Badge that checks a public GitHub repo's CHANGELOG.md against Keep a
   Changelog and links to a report with a fix for each issue.
+- [disdex Discord badges](https://disdex.io/tools/badge) &ndash; Member count,
+  online count and 30-day growth chart badges for public Discord servers.
+  Needs no server widget setting, bot or token.
 
 ### Badge tools
 
