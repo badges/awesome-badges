@@ -44,6 +44,11 @@ includes Shields-related and non-Shields-related resources._
 - [disdex Discord badges](https://disdex.io/tools/badge) &ndash; Member count,
   online count and 30-day growth chart badges for public Discord servers.
   Needs no server widget setting, bot or token.
+- [OmniForge Launch Score badges](https://zcoldwater.github.io/omniforge-skills/launch-score-badge-generator.html) &ndash;
+  Dynamic SVG badges for any public domain showing live Web Security headers
+  (VibeShield), SPF/DKIM/DMARC email auth (InboxShield), `/llms.txt` AI search
+  readiness (CiteReady), and combined 4-in-1 Launch Score. No account or API
+  key required.
 
 ### Badge tools
 
